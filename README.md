@@ -19,6 +19,20 @@
 
 ---
 
+### 📌 Featured Project
+
+<p align="center">
+  <a href="https://github.com/Ajinkya47/Document-Chatbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajinkya47&repo=Document-Chatbot&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+</p>
+
+<p align="center">
+  <b>📄 Docuchat</b> — A conversational RAG web app (Streamlit + Gemini 2.5 Flash) that answers complex queries against uploaded PDF/DOCX/TXT files, with built-in document parsing and Text-to-Speech for enhanced accessibility.
+</p>
+
+---
+
 ### 🚀 About Me
 
 - 🎓 **3rd-year Computer Engineering** student @ Government College of Engineering and Research, Avasari, Pune *(CGPA: 8.50)*
@@ -58,21 +72,31 @@
 
 <p align="center">
   <b>AI / ML / GenAI</b><br/>
+  <img src="https://img.shields.io/badge/-Generative%20AI-8A2BE2?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LLMs-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/-RAG-FF6F61?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Agentic%20AI-00A67E?style=flat-square&logo=robotframework&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NLP-005571?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Deep%20Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /><br/>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
 </p>
 
 <p align="center">
   <b>Frameworks & Libraries</b><br/>
   <img src="https://skillicons.dev/icons?i=django,flask&theme=dark" />
+  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" /><br/>
   <img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" />
 </p>
 
 <p align="center">
   <b>Tools & Database</b><br/>
   <img src="https://skillicons.dev/icons?i=mysql,git,github,docker&theme=dark" />
+  <img src="https://img.shields.io/badge/-ChromaDB-FF6600?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitPython-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-REST%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white" />
 </p>
-
-> **Also working with:** Generative AI · LLMs · RAG · Agentic AI · NLP · Deep Learning · Streamlit · LangChain · LangGraph · ChromaDB · GitPython · REST APIs
 
 ---
 
@@ -111,20 +135,6 @@
   <a href="https://leetcode.com/u/AjinkyaKokate/">
     <img src="https://leetcard.jacoblin.cool/AjinkyaKokate?theme=dark&font=Karla&ext=heatmap" alt="LeetCode stats" />
   </a>
-</p>
-
----
-
-### 📌 Featured Project
-
-<p align="center">
-  <a href="https://github.com/Ajinkya47/Document-Chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajinkya47&repo=Document-Chatbot&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-</p>
-
-<p align="center">
-  <b>📄 Docuchat</b> — A conversational RAG web app (Streamlit + Gemini 2.5 Flash) that answers complex queries against uploaded PDF/DOCX/TXT files, with built-in document parsing and Text-to-Speech for enhanced accessibility.
 </p>
 
 ---
