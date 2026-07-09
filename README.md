@@ -19,7 +19,6 @@
 
 - 🎓 3rd-year Computer Engineering student, specializing in **Generative AI (RAG, LLMs)** and **Full-Stack Development**
 - 🧠 Exploring **Agentic AI, Vector Databases (ChromaDB) & LangChain/LangGraph** pipelines
-- 🔭 Building an **AI-powered RAG codebase assistant** and a **document Q&A chatbot**
 - 🏆 Active member of the **GCOEARA Hackathon Club** — helping organize college-level hackathons & technical workshops
 - ⚡ Fun fact: I enjoy turning raw data into things that actually *do* something useful
 - 📫 Reach me at **ajinkyakokate47@gmail.com**
@@ -49,35 +48,47 @@
 
 <p align="center">
   <b>Languages & Core</b><br/>
-  <img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,html,css&theme=dark" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
 <p align="center">
   <b>AI / ML / GenAI</b><br/>
-  <img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-FF6F61?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Agentic_AI-00A67E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NLP-005571?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge" /><br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
+  <img src="https://img.shields.io/badge/-Generative%20AI-8A2BE2?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LLMs-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/-RAG-FF6F61?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Agentic%20AI-00A67E?style=flat-square&logo=robotframework&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NLP-005571?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Deep%20Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
 </p>
 
 <p align="center">
   <b>Frameworks & Libraries</b><br/>
-  <img src="https://skillicons.dev/icons?i=django,flask&theme=dark" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" /><br/>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" />
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 </p>
 
 <p align="center">
   <b>Tools & Database</b><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,docker&theme=dark" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF6600?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitPython-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitPython-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ChromaDB-FF6600?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/-REST%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white" />
 </p>
 
 ---
@@ -103,37 +114,24 @@
 
 ---
 
-### 📌 Featured Projects
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ajinkya47/Ajinkya47/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
+### 📌 Featured Project
 
 <p align="center">
   <a href="https://github.com/Ajinkya47/Document-Chatbot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajinkya47&repo=Document-Chatbot&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
-  <a href="https://github.com/Ajinkya47/Git_Ingest">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajinkya47&repo=Git_Ingest&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ajinkya47/AQI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajinkya47&repo=AQI&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-</p>
-
-<div align="center">
-
-**📄 Docuchat** — Conversational RAG app (Streamlit + Gemini) to chat with PDF/DOCX/TXT files, with built-in Text-to-Speech
-&nbsp;&nbsp;|&nbsp;&nbsp;
-**🔍 Git_Ingest** — RAG pipeline that parses & semantically embeds codebases (GitPython + Sentence Transformers + ChromaDB) for natural-language code Q&A
-
-</div>
-
----
-
-### 🔥 Contribution Heatmap
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/00F7FF/Ajinkya47" alt="Ajinkya's GitHub contribution chart" />
+  <b>📄 Docuchat</b> — Conversational RAG app (Streamlit + Gemini) to chat with PDF/DOCX/TXT files, with built-in Text-to-Speech
 </p>
 
 ---
